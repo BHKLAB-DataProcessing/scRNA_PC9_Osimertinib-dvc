@@ -1,0 +1,4 @@
+outs:
+- md5: 13383b00a94735845408cc1727d52338
+  size: 240084308
+  path: scRNA_PC9_Osimertinib.rds
